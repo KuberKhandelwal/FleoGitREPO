@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FleoGitREPO/static/css/main.841f0941.css",
+    "main.js": "/FleoGitREPO/static/js/main.073aebb9.js",
+    "static/js/787.ce3b6100.chunk.js": "/FleoGitREPO/static/js/787.ce3b6100.chunk.js",
+    "index.html": "/FleoGitREPO/index.html",
+    "main.841f0941.css.map": "/FleoGitREPO/static/css/main.841f0941.css.map",
+    "main.073aebb9.js.map": "/FleoGitREPO/static/js/main.073aebb9.js.map",
+    "787.ce3b6100.chunk.js.map": "/FleoGitREPO/static/js/787.ce3b6100.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.841f0941.css",
+    "static/js/main.073aebb9.js"
+  ]
+}
